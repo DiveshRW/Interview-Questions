@@ -1,0 +1,1 @@
+//Write a javascript program to find the number of even digits in a array of integers
