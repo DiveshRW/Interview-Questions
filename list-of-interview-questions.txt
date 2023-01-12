@@ -1,0 +1,102 @@
+### Contains list of interview Problems topic wise More will be updated regularly.Some are below..
+
+////////////////////////////////////////////////////////////////////////////////////
+
+# Some common loop-related problems that may be asked in programming interviews(Problems):
+
+// FizzBuzz: Write a program that prints the numbers from 1 to n, but for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
+
+// Reverse a string: Write a program that takes a string as input and reverses it.
+
+// Palindrome: Write a program that checks if a word or phrase is a palindrome (a word or phrase that reads the same backwards as forwards).
+
+// Fibonacci sequence: Write a program that prints the Fibonacci sequence up to a given number n.
+
+// Factorial: Write a program that calculates the factorial of a given number n.
+
+// Matrix Spiral Print: Given a 2D matrix, write a program to print the elements of the matrix in spiral order.
+
+// Sum of n numbers: Write a program to find the sum of first n natural numbers.
+
+// Prime number: Write a program to check if a given number is prime or not
+
+
+///////////////////////////////////////////////////////////////////////////////////////
+#In a programming interview, advanced loop problems may involve tasks
+
+// Flattening a nested array: Given a nested array, write a function to flatten it into a single-dimensional array.
+
+// FizzBuzz: Write a program that prints the numbers from 1 to n, but for multiples of 3 print "Fizz" instead of the number, and for multiples of 5 print "Buzz". For numbers which are multiples of both 3 and 5 print "FizzBuzz".
+
+// Finding the maximum subarray sum: Given an array of integers, find the subarray with the largest sum.
+
+// Palindrome check: Given a string, write a function to check whether it is a palindrome or not.
+
+// Matrix spiral print: Given a 2D array, print its elements in a spiral order.
+
+/////////////////////////////////////////////////////////////////////////////////
+#Misc. Random Problems:
+
+// What is the difference between a stack and a queue?
+// How would you implement a linked list in Python?
+// Can you explain the concept of recursion and give an example of a problem that can be solved using recursion?
+// How do you implement a binary search algorithm?
+// How do you implement a hash table in Python?
+// What is the time complexity of the bubble sort algorithm?
+// What is the purpose of a priority queue and how is it implemented?
+// Can you explain the concept of a graph and the different types of graphs?
+// How do you find the shortest path between two nodes in a graph using Dijkstra's algorithm?
+// How do you implement a dynamic programming solution for the knapsack problem?
+
+// Given an unsorted array of integers, write a function to find the second largest number in the array.
+
+// Given an array of integers, write a function to find the largest sum of any of its subarrays.
+
+// Given an array of integers, write a function to find the smallest number in the array that is not a duplicate.
+
+// Given an array of integers, write a function to find the missing number in the array (assume the array has distinct integers and one number is missing).
+
+// Given an array of integers and a target sum, write a function to find two numbers in the array that add up to the target sum.
+
+// Given an array of integers, write a function to find the second lowest number in the array.
+
+// Given an array of integers, write a function to find the number of unique elements in the array.
+
+// Given an array of integers, write a function to find the maximum product of any three numbers in the array.
+
+// Given an array of integers, write a function to find the minimum number of swaps needed to sort the array in ascending order.
+
+// Given an array of integers, write a function to find the longest increasing subarray (a subarray in which the elements are in increasing order).
+
+
+// Removing duplicates from an array: Write a function that takes an array as an input and returns a new array with all the duplicate elements removed.
+
+// Finding the smallest element in an array: Write a function that takes an array as an input and returns the smallest element in the array.
+
+// Sorting an array: Write a function that takes an array as an input and returns a new array that is sorted in ascending order.
+
+// Reversing an array: Write a function that takes an array as an input and returns a new array that is in the reverse order.
+
+// Merging two arrays: Write a function that takes two arrays as input and returns a new array that contains all the elements from both input arrays.
+
+// Finding the common elements between two arrays: Write a function that takes two arrays as input and returns an array of elements that are present in both input arrays.
+
+// Counting the number of occurrences of an element in an array: Write a function that takes an array and an element as input and returns the number of times the element appears in the array.
+
+// Finding the average value of an array: Write a function that takes an array as input and returns the average value of all the elements in the array.
+
+// Removing the first element of an array: Write a function that takes an array as input and removes the first element of the array and returns the new array.
+
+// Removing the last element of an array: Write a function that takes an array as input and removes the last element of the array and returns the new array.
+
+// Infinite loops: This occurs when the loop never exits, causing the program to crash or freeze. This can happen if the loop condition is always true, or if the increment/decrement statement is missing.
+
+// Off-by-one errors: This occurs when the loop condition is not set correctly, causing the loop to run one more or one less iteration than intended.
+
+// Nested loops: Nested loops can be confusing and hard to read, especially if the inner loop is not properly indented. This can also cause performance issues if the nested loop is too complex.
+
+// Incorrect iteration: If the loop is not set up correctly, it may iterate over the wrong elements or in the wrong order.
+
+// Memory leak: If the loop is not properly releasing memory, it can cause a memory leak and eventually cause the program to crash.
+
+// To avoid these problems, it is important to carefully design the loop conditions, increment/decrement statements, and exit conditions. It is also important to use clear and consistent indentation when working with nested loops, and to keep an eye on memory usage.
